@@ -1,0 +1,16 @@
+{
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.csv",
+        "**/*.json",
+        "**/*.log",
+        "api/**"
+    ],
+    "fiveServer.ignore": [
+        ".vscode/**",
+        "**/*.csv",
+        "**/*.json",
+        "**/*.log",
+        "api/**"
+    ]
+}

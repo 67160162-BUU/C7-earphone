@@ -1,0 +1,13 @@
+{
+    "status": "ok",
+    "id": 162,
+    "c7_angle": 21.530000000000001136868377216160297393798828125,
+    "head_pitch": 45,
+    "head_roll": -30,
+    "head_yaw": 40,
+    "cva_angle": 28.8900000000000005684341886080801486968994140625,
+    "created_at": "2026-10-22 12:21:40",
+    "mysql_saved": true,
+    "csv_saved": true,
+    "mysql_error": null
+}
